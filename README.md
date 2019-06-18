@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## 欢迎来到 `ODDS` 服装搭配课堂
+
+<video id="video" controls="" preload="none" poster="">
+<source id="mp4" src="https://s3plus.meituan.net/v1/mss_70cc7da2c5b54ef490d1b5a475e17e3f/edu-video/393d6906d89ced34923d6431a77e0ba1.mp4" type="video/mp4">
+</video>
+
+---
 
 You can use the [editor on GitHub](https://github.com/odds-projects/dress-what/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
