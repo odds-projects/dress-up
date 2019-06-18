@@ -1,6 +1,6 @@
 ## 欢迎来到 ODDS 服装搭配课堂
 
-你与美只差一堂课的距离 [link](http://www.dianping.com/shop/44392299)
+[你与美只差一堂课的距离](http://www.dianping.com/shop/44392299)
 
 ### Shelley 老师的每日搭配 - 2019.06.18
 
