@@ -9,7 +9,7 @@
   Your browser does not support the video tag.
 </video>
 
-### 家栋哥哥和Shelly
+### 家栋哥哥和Shelley
 
 <video id="video" controls="controls" preload="auto" poster="" width="50%">
   <source src="https://s3plus.meituan.net/v1/mss_70cc7da2c5b54ef490d1b5a475e17e3f/edu-video/8ee4aef959e381e1150feb49a0b12729.mp4" type="video/mp4">
