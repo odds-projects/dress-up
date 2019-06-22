@@ -2,21 +2,28 @@
 
 [你与美只差一堂课的距离](http://www.dianping.com/shop/44392299)
 
-### Shelley 老师的每日搭配 - 2019.06.22
+### Shelley 老师的每日搭配 - 2019.06.21
+
+<video id="video" controls="controls" preload="auto" poster="" width="50%">
+  <source src="https://aweme.snssdk.com/aweme/v1/playwm/?s_vid=93f1b41336a8b7a442dbf1c29c6bbc56e4e9784363b1ca17af2143d880c4081c26fffd57da43637dbe74f555e233b91a530d7b264e89328c8605e47d333b6d21&line=0" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Shelley 老师的每日搭配 - 2019.06.21
 
 <video id="video" controls="controls" preload="auto" poster="" width="50%">
   <source src="https://aweme.snssdk.com/aweme/v1/playwm/?s_vid=93f1b41336a8b7a442dbf1c29c6bbc56f6ec4d09e99ff17feadd1d2cfc142ededff83f8e78f0a807974bbb4afc42b27aa09913c8d60bc311ba02e1d0a280e607&line=0" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Shelley 老师的每日搭配 - 2019.06.22
+### Shelley 老师的每日搭配 - 2019.06.20
 
 <video id="video" controls="controls" preload="auto" poster="" width="50%">
   <source src="https://aweme.snssdk.com/aweme/v1/playwm/?s_vid=93f1b41336a8b7a442dbf1c29c6bbc5677fbee0c5cd2d9e86dc43d3f6cc69699c14384e59893f520d538033b986522f44dec37c6b8276f6464577a25845194ad&line=0" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Shelley 老师的每日搭配 - 2019.06.21
+### Shelley 老师的每日搭配 - 2019.06.19
 
 <video id="video" controls="controls" preload="auto" poster="" width="50%">
   <source src="http://v3-dy.bytecdn.cn/07aaa21d3ee2ac7cfd8edaec1d0b9d99/5d0e1dca/video/m/2204f42ed9b530a4f09b7108d0ffe51099411629e8f90000654f120440df/?rc=ajU0PGp0cGR3bjMzNmkzM0ApQHRoaGR1KTU0NTw0MzQzMzU1NDUzNDVvQGg2dilAZzN3KUBmM3UpcHpiczFoMXB6QCk1NGRwcDFiNXJpajNfLS1hLTBzcy1vI2p0OmlCPzAzLTA0LS4wMDYvMzYtOiNvIzphLW8jOmAtcCM6YGJiXmZeX3RiYl5gNS46" type="video/mp4">
