@@ -2,6 +2,13 @@
 
 [你与美只差一堂课的距离](http://www.dianping.com/shop/44392299)
 
+### Shelley 老师的每日搭配 - 2019.06.22
+
+<video id="video" controls="controls" preload="auto" poster="" width="50%">
+  <source src="https://aweme.snssdk.com/aweme/v1/playwm/?s_vid=93f1b41336a8b7a442dbf1c29c6bbc5677fbee0c5cd2d9e86dc43d3f6cc69699c14384e59893f520d538033b986522f44dec37c6b8276f6464577a25845194ad&line=0" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ### Shelley 老师的每日搭配 - 2019.06.21
 
 <video id="video" controls="controls" preload="auto" poster="" width="50%">
