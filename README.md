@@ -5,7 +5,7 @@
 ### Shelley 老师的每日搭配 - 2019.06.21
 
 <video id="video" controls="controls" preload="auto" poster="" width="50%">
-  <source src="http://v.douyin.com/h6Mjh5/ " type="video/mp4">
+  <source src="http://v3-dy.bytecdn.cn/07aaa21d3ee2ac7cfd8edaec1d0b9d99/5d0e1dca/video/m/2204f42ed9b530a4f09b7108d0ffe51099411629e8f90000654f120440df/?rc=ajU0PGp0cGR3bjMzNmkzM0ApQHRoaGR1KTU0NTw0MzQzMzU1NDUzNDVvQGg2dilAZzN3KUBmM3UpcHpiczFoMXB6QCk1NGRwcDFiNXJpajNfLS1hLTBzcy1vI2p0OmlCPzAzLTA0LS4wMDYvMzYtOiNvIzphLW8jOmAtcCM6YGJiXmZeX3RiYl5gNS46" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
